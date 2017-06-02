@@ -1,7 +1,7 @@
 # Feature Map Inversion with MXnet
 
 This code is used to reproduce the experiments in the paper with MXnet:
-[Zhiqiang Xia, Ce Zhu, Zhengtao Wang, Qi Guo, Yipeng Liu. "Every Filter Extract a Specific Texture in Convolutional Neural Networks-short"](https://arxiv.org/abs/1608.04170).
+Zhiqiang Xia, Ce Zhu, Zhengtao Wang, Qi Guo, Yipeng Liu. "[Every Filter Extract a Specific Texture in Convolutional Neural Networks-short](https://arxiv.org/abs/1608.04170)",  arXiv preprint arXiv:1608.04170. 2016.
 
 ## Installation
 This code is written in Python and requires [MXnet](https://github.com/dmlc/mxnet). If you're on Ubuntu, install MXnet in your home directory as the link described:
